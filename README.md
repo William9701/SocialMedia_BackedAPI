@@ -69,4 +69,4 @@ ALGORITHM = HS256
 ACCESS_TOKEN_EXPIRE_MINUTES = 60(base)
 
 ````
-### Note: SECRET_KEY in this exmple is just a psudo key. You need to get a key for youself and you can get the SECRET_KEY  from fastapi documantion.
+### Note: SECRET_KEY in this exmple is just a psudo key. You need to get a key for youself and you can get the SECRET_KEY  from fastapi documantion!
